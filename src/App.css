@@ -1,0 +1,32 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #007bff;
+  margin-bottom: 30px;
+}
+
+.lead {
+  font-size: 1.25rem;
+  margin-bottom: 30px;
+}
+
+.alert {
+  margin: 30px 0;
+  padding: 20px;
+}
+
+code {
+  background-color: #f8f9fa;
+  padding: 5px;
+  border-radius: 4px;
+  color: #d63384;
+}
